@@ -59,7 +59,7 @@ body > * > * > * > * > * > *::after {
 }
 
 
-/* 1 уровень сеточных блоков */
+
 
 body > *::before,
 body > *::after,
@@ -86,7 +86,7 @@ body > img {
   outline-offset: -2px;
 }
 
-/* 2 уровень сеточных блоков */
+
 
 body > * > *::before,
 body > * > *::after,
@@ -114,7 +114,7 @@ body > * > img {
 }
 
 
-/* 3 уровень сеточных блоков */
+
 
 body > * > * > *::before,
 body > * > * > *::after,
@@ -169,7 +169,7 @@ body > * > * > * > img {
 }
 
 
-/* 5 уровень сеточных блоков */
+
 body > * > * > * > * > *::before,
 body > * > * > * > * > *::after,
 body > * > * > * > * > img {
@@ -195,7 +195,7 @@ body > * > * > * > * > img {
   outline-offset: -2px;
 }
 
-/* 6 уровень сеточных блоков */
+
 body > * > * > * > * > * > *::before,
 body > * > * > * > * > * > *::after,
 body > * > * > * > * > * > img {
